@@ -1,0 +1,1 @@
+D:\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin\mvn test
